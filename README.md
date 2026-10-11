@@ -17,7 +17,8 @@ All text — profile, experience, projects, skills, education and contact detail
 
 ## Deploy
 
+Every push to `main` deploys automatically to Vercel (the build settings live in [`vercel.json`](vercel.json)). To deploy by hand instead:
+
 ```bash
-npm run build
 npx vercel deploy --prod
 ```
