@@ -130,8 +130,8 @@ export function About() {
         <div className="about-grid">
           <div className="about-text reveal">
             <p className="lead">
-              I build software that solves practical problems — from a cross-platform app for my
-              college’s hostel portal to AI tooling for PayPal’s analytics platform.
+              I enjoy taking an idea from the first commit to something people actually use — across
+              web, mobile and AI.
             </p>
             <p>
               I’m an Information Technology student at <b>PSG College of Technology</b>, Coimbatore. At{' '}
