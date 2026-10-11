@@ -112,7 +112,7 @@ export const projects = [
 
 export const skills = [
   { name: 'Languages', items: ['Java', 'Kotlin', 'Python', 'JavaScript', 'TypeScript', 'SQL', 'HTML/CSS'] },
-  { name: 'Frontend', items: ['React', 'Vite', 'Compose Multiplatform', 'Tailwind CSS'] },
+  { name: 'Frontend', items: ['React', 'Vite', 'Tailwind CSS'] },
   { name: 'Backend', items: ['Node.js', 'Express', 'FastAPI', 'Flask', 'Spring Boot'] },
   { name: 'AI', items: ['Gemini API', 'Whisper', 'Google ADK', 'MCP', 'Hugging Face Transformers'] },
   { name: 'Data', items: ['PostgreSQL', 'SQLAlchemy', 'SQLite'] },
